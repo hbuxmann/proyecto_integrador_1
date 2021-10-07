@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+#local work files
+bootstrap-5.1.1-examples
+bootstrap-5.1.1-examples.zip
